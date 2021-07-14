@@ -1,5 +1,5 @@
 body{
-    background-image: url("/img/background/background01.png");
+    background-image: url("/img/background/background01.jpg");
 }
 .wholePage{
     height: 98vh;
@@ -50,7 +50,7 @@ body{
 }
 
 .ListaProdutos1{
-    background-color: #62e7d5;
+    background-color: #e02dc8;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -59,7 +59,7 @@ body{
     
 }
 .ListaProdutos2{
-    background-color: #62e7d5;
+    background-color:#ee16d1;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -68,7 +68,7 @@ body{
     
 }
 .ParteTrês{
-    color:#fff;
+    color:#000;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -84,9 +84,9 @@ body{
     align-items: center;
     width: auto;
     height: auto;
-    background-color: rgb(162, 224, 219);
-    padding: 0.25rem;
-    margin: 0px 0px 30px 0px;
+    background-color: rgb(248, 6, 147);
+    padding: 0.50rem;
+    margin: 0px 0px 60px 0px;
     border-radius: 8%;
 }
 .form{
